@@ -1,6 +1,7 @@
 ## INICIAR PROYECTO
  1. Ingresamos a la raíz del proyecto.
- 2. Ejecutamos los siguientes comandos según nuestra necesidad: 
+ 2. Ejecutamos npm install.
+ 3. Ejecutamos los siguientes comandos según nuestra necesidad: 
     - npm run snapshot
     - npm run file : Extrae las uf del mes actual.
  
