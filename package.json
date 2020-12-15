@@ -1,0 +1,24 @@
+{
+  "name": "puppeter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snapshot": "node src/snapshot/snapshot.js",
+    "file": "node src/file/file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secalquin/node-puppeter.git"
+  },
+  "author": "Sebastian Calquin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secalquin/node-puppeter/issues"
+  },
+  "homepage": "https://github.com/secalquin/node-puppeter#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "puppeteer": "^5.5.0"
+  }
+}
